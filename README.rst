@@ -13,14 +13,14 @@ Visual comparison
 **Original survival curves** from Séralini's article:
 
 .. image:: https://raw.github.com/pierre-haessig/rats-gmo-survival/master/S%C3%A9ralini%20fig1%20colored.png
-    :width: 400px
+    :width: 200 px
 
 (color highlighting was added by myself to improve legibility)
 
 A **randomly generated** survival curve:
 
 .. image:: https://raw.github.com/pierre-haessig/rats-gmo-survival/master/rats_survival_weibull_s4_med600_wCI.png
-    :width: 400px
+    :width: 200 px
 
 
 
